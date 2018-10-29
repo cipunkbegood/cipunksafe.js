@@ -19,8 +19,8 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/10/list-of-gemstones-and-how-to-clean-them.html"}
-if(x=="2"){xxx="/2018/10/purchasing-brand-new-sports-car-tips.html"}
+if(x=="1"){xxx="/2018/10/purchasing-brand-new-sports-car-tips.html"}
+if(x=="2"){xxx="/2018/10/list-of-gemstones-and-how-to-clean-them.html"}
 if(x=="3"){xxx="/2018/10/options-for-good-credit-cards.html"}
 if(x=="4"){xxx="/2018/10/ways-of-paying-for-health-insurance.html"}
 if(x=="5"){xxx="/2018/10/advantages-to-indemnity-health.html"}a_to_ve[i].href="https://cipunksafe.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
